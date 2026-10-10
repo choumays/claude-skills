@@ -1,0 +1,6 @@
+{
+  "name": "video-learning",
+  "version": "1.0.0",
+  "description": "Watch videos (yt-dlp + ffmpeg), analyze them with Gemini, and turn what was learned into Claude skills and subagents.",
+  "author": { "name": "choumays" }
+}
