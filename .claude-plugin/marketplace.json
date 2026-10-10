@@ -1,0 +1,11 @@
+{
+  "name": "choumays-skills",
+  "owner": { "name": "choumays" },
+  "plugins": [
+    {
+      "name": "video-learning",
+      "source": "./plugins/video-learning",
+      "description": "Teach Claude any skill from videos: watch YouTube/TikTok (transcript + frames), analyze with Gemini's native video understanding, then distill it all into reusable skills and agents."
+    }
+  ]
+}
